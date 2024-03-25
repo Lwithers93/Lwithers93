@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Luke!
+# 👋 Hi, I’m Luke!
 - 👀 I’m interested in sport, the environment, animals and (most recently) tech!
 - 🌱 I’m currently learning React and dabbling in Python
 - 💞️ I’m looking to collaborate on web applications and mobile apps
