@@ -10,4 +10,4 @@
 
 #### My Tech
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,jquery,netlify,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,jquery,nodejs,py,netlify,postman)](https://skillicons.dev)
