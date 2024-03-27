@@ -17,3 +17,13 @@
   </a>
 </p>
 <p align="center">credit: <a href="https://github.com/tandpfun/skill-icons">Skill Icons</a></p>
+
+<h3 align="center">My Stats</h3>
+<p align="center" style="display:flex; justify-content: space-between;">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=Lwithers93&hide=stars,prs,issues,contribs" />
+  </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lwithers93&layout=donut" />
+  </a>
+</p>
