@@ -26,7 +26,7 @@
     <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="100%" alt="Lwithers93's Top Github Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lwithers93&layout=compact" />
   </a>
-  <a href="https://github.com/Kiran1689">
+  <a href="https://streak-stats.demolab.com">
     <img alt="Lwithers93's Streak Stats"  src="https://streak-stats.demolab.com?user=lwithers93" />
   </a>
   
