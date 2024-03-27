@@ -16,3 +16,4 @@
     <img src="https://skillicons.dev/icons?i=js,html,css,react,jquery,nodejs,py,vscode,netlify,postman,git,github&perline=6" />
   </a>
 </p>
+<p align="center">credit: <a href="https://github.com/tandpfun/skill-icons">Skill Icons</a></p>
