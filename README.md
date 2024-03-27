@@ -1,6 +1,6 @@
 
-# 👋 Hi, I’m Luke!
-### I'm a Self-Taught Software Developer
+<h1 align="center">👋 Hi, I’m Luke!</h1>
+<h3 align="center">I'm a Self-Taught Software Developer</h3>
 - 👀 I’m interested in sport, the environment, animals and (most recently) tech!
 - 🌱 I’m currently learning React and dabbling in Python
 - 💞️ I’m looking to collaborate on web applications and mobile apps
@@ -8,6 +8,9 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: If I could have a superpower it would be talking to animals. Hopefully they'd have something cool to say...
 
-#### My Tech
-
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,jquery,nodejs,py,netlify,postman)](https://skillicons.dev)
+<h3 align="center">My Tech</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,react,jquery,nodejs,py,vscode,netlify,postman,git,github&perline=6" />
+  </a>
+</p>
