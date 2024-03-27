@@ -21,10 +21,10 @@
 <h3 align="center">My Stats</h3>
 <p align="center" style="display:flex; justify-content: space-between;">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="Lwithers93's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Lwithers93&show_icons=true&hide_rank=true" />
+    <img height="100%" alt="Lwithers93's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Lwithers93&show_icons=true&hide_rank=true&hide=prs,issues&line_height=24" />
   </a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="Lwithers93's Top Github Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lwithers93&layout=donut" />
+    <img height="100%" alt="Lwithers93's Top Github Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lwithers93&layout=compact" />
   </a>
   <a href="https://github.com/Kiran1689">
     <img alt="Lwithers93's Streak Stats"  src="https://streak-stats.demolab.com?user=lwithers93" />
