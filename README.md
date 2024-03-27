@@ -21,9 +21,9 @@
 <h3 align="center">My Stats</h3>
 <p align="center" style="display:flex; justify-content: space-between;">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=Lwithers93&hide=stars,prs,issues,contribs" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Lwithers93&hide=stars,prs,issues,contribs&hide_rank=true" />
   </a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lwithers93&layout=donut" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lwithers93&layout=compact" />
   </a>
 </p>
