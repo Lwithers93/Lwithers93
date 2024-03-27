@@ -16,8 +16,6 @@
     <img src="https://skillicons.dev/icons?i=js,html,css,react,jquery,nodejs,py,vscode,netlify,postman,git,github&perline=6" />
   </a>
 </p>
-<p align="center">credit: <a href="https://github.com/tandpfun/skill-icons">Skill Icons</a></p>
-
 <h3 align="center">My Stats</h3>
 <p align="center" style="display:flex; justify-content: space-between;">
   <a href="https://github.com/anuraghazra/github-readme-stats">
