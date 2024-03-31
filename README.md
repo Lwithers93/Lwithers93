@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I’m Luke!</h1>
+<h1 align="center">👋 Hi, I’m Luke</h1>
 <h3 align="center">I'm a Self-Taught Software Developer</h3>
 <ul>
   <li>👀 I’m interested in sport, the environment, animals and (most recently) tech!</li>
