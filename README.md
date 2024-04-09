@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I’m Luke</h1>
-<h3 align="center">I'm a Self-Taught Software Developer </h3>
+<h3 align="center">I'm a Self-Taught Software Developer</h3>
 <ul>
   <li>👀 I’m interested in sport, the environment, animals, and (most recently) tech!</li>
   <li>🌱 I’m currently learning React and dabbling in Python</li>
