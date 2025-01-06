@@ -23,6 +23,5 @@
     <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="100%" alt="Lwithers93's Top Github Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lwithers93&layout=compact" />
     </a>
-<!--   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=lwithers93" alt="Lwithers93's Streak Stats" /></a> -->
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=lwithers93" alt="Lwithers93's Streak Stats" /></a>
 </p>
