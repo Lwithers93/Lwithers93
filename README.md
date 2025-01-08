@@ -1,5 +1,8 @@
 <h1 align="center">👋 Hi, I’m Luke</h1>
 <h3 align="center">I'm a Self-Taught Software Developer </h3>
+
+<p>I first started learning JavaScript and jQuery to help with my day job and it quickly turned into a career pursuit. Now I work as a student systems developer and continue to dabble in new technologies in my spare time!</p>
+
 <ul>
   <li>👀 I’m interested in sport, the environment, animals, and (most recently) tech!</li>
   <li>🌱 I’m currently learning React Native and dabbling in Python</li>
